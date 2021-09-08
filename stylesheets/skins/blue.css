@@ -9,7 +9,7 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover {color:#55a2a6;}
 .ca-menu li:hover .ca-main {color: #55a2a6;}
 .topborder { border-top:4px solid #55a2a6;}
 .readmore {background:#55a2a6;}
- #subheader {background: #55a2a6;border-top: 1px solid #55a2a6; color: #fff;}
+ #subheader {background: #666;border-top: 1px solid #55a2a6; color: #fff;}
  #subheader a {color: #eee;}
  #subheader a:hover {color: #fff;}
  .readmore {background:#55a2a6;}
